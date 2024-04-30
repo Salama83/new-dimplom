@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171820157807",
+    "project_id": "diplom-4585",
+    "storage_bucket": "diplom-4585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171820157807:android:77c6a7c4f7c9f06108769a",
+        "android_client_info": {
+          "package_name": "com.example.dimplom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFglVhaEbMKFh7Ei3mn3hdgq3rNJs0Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
